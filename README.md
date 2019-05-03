@@ -1,2 +1,2 @@
 # Persian-Mime-Words
-Persian mime words in SQL format (including category and points)
+Persian mime words (including category and points) in SQL format
